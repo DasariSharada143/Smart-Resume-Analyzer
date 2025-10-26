@@ -54,13 +54,13 @@ git clone https://github.com/username/SmartResumeAnalyzer.git
 cd SmartResumeAnalyzer/Smart_resume_analyser
 ```
 2. **Run the project**
-
+```bash 
 java -cp "bin;lib/*;C:\path\to\json-20210307.jar" WebApp
+```
 
 3. **Open your browser and go to:**
-
+```bash
 http://localhost:4567/index.html
-
-
+```
 
 
