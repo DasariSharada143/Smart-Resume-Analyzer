@@ -50,7 +50,7 @@ Smart_resume_analyser/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/username/SmartResumeAnalyzer.git
+git clone https://github.com/DasariSharada143/Smart-Resume-Analyzer.git
 cd SmartResumeAnalyzer/Smart_resume_analyser
 ```
 2. **Run the project**
